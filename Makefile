@@ -1,7 +1,7 @@
 .PHONY: build-x86 build-arm64 push all
 
 # Build Vars
-IMAGENAME=nicolaka/netshoot
+IMAGENAME=vascolameiras/netshoot
 VERSION=0.1
 
 
